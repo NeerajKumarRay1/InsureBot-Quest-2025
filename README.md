@@ -2,7 +2,7 @@
 
 Conversational voice AI bot that **calls customers, answers insurance questions, and reminds them to pay premiums** – built for the *InsureBot Quest 2025* hackathon by ValuEnable.
 
-![Screenshot](demo/screenshot.png)
+![Screenshot](demo/Screenshot-2025-07-19-030608.png)
 
 ---
 
